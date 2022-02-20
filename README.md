@@ -1,3 +1,5 @@
+## Hey there. 
+### Name is Joshua Christianto. Here is my profile.
 ### My coding stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrJackie7&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
